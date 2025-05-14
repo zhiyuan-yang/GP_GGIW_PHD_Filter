@@ -1,7 +1,7 @@
 # Gaussian Process Gaussian Mixture PHD Filter for 3D Multiple Extended Target Tracking
 by Zhiyuan Yang, Xiangqian Li,Xianxun Yao, Jinping Sun and Tao Shan
 
-![](Graphical_Abstract.jpg)
+![](Graphical_Abstract.JPG)
 
 This repo contains code for paper [Gaussian Process Gaussian Mixture PHD Filter for 3D Multiple Extended Target Tracking](https://www.mdpi.com/2072-4292/15/13/3224). 
 
